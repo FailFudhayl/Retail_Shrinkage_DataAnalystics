@@ -7,6 +7,12 @@ data/*.parquet
 outputs/*.xlsx
 outputs/*.csv
 
+# Database files
+data/*.db
+data/*.sqlite
+data/*.csv
+outputs/*.xlsx
+
 # ===========================
 # VIRTUAL ENVIRONMENT
 # ===========================
