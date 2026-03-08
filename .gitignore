@@ -1,0 +1,37 @@
+# ===========================
+# DATA FILES (too large)
+# ===========================
+raw_data/
+data/*.csv
+data/*.parquet
+outputs/*.xlsx
+outputs/*.csv
+
+# ===========================
+# VIRTUAL ENVIRONMENT
+# ===========================
+venv/
+env/
+.env
+
+# ===========================
+# PYTHON CACHE
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ===========================
+# CREDENTIALS (SECURITY!)
+# ===========================
+kaggle.json
+*.json
+secrets.py
+.env
+
+# ===========================
+# OS FILES
+# ===========================
+.DS_Store
+Thumbs.db
